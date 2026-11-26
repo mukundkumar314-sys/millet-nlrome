@@ -1,0 +1,16 @@
+{
+  "title": "millet-nlrome: comparative NLR genomics across eleven grass genomes",
+  "description": "Analysis code for a genome-wide comparison of NLR immune receptors and their integrated domains across eleven Poaceae genomes, with host-target phylogenetics, pathogen effector mining, expression re-analysis and codon site-model selection tests focused on blast resistance in finger millet (Eleusine coracana).",
+  "license": "MIT",
+  "upload_type": "software",
+  "creators": [
+    {"name": "Thakur, Mukund Kumar",
+     "affiliation": "Dr. Rajendra Prasad Central Agricultural University, Pusa, Bihar, India",
+     "orcid": "0009-0002-3213-4065"},
+    {"name": "Mishra, Sweta",
+     "affiliation": "Dr. Rajendra Prasad Central Agricultural University, Pusa, Bihar, India"}
+  ],
+  "keywords": ["NLR immune receptor", "integrated decoy domain", "Eleusine coracana",
+               "blast resistance", "comparative genomics", "Magnaporthe oryzae"],
+  "access_right": "open"
+}

@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the paper below."
+title: "millet-nlrome: comparative NLR genomics across eleven grass genomes"
+authors:
+  - family-names: Thakur
+    given-names: Mukund Kumar
+    orcid: "https://orcid.org/0009-0002-3213-4065"
+    affiliation: "Dr. Rajendra Prasad Central Agricultural University, Pusa, Bihar, India"
+  - family-names: Mishra
+    given-names: Sweta
+    affiliation: "Dr. Rajendra Prasad Central Agricultural University, Pusa, Bihar, India"
+license: MIT
+repository-code: "https://github.com/mukundkumar314-sys/millet-nlrome"
+keywords:
+  - NLR immune receptor
+  - integrated decoy domain
+  - Eleusine coracana
+  - blast resistance
+  - comparative genomics
+preferred-citation:
+  type: article
+  title: "Genome-wide identification and comparative analysis of NLR immune receptors and their integrated domains in eleven grass genomes, with implications for blast resistance in finger millet (Eleusine coracana L. Gaertn.)"
+  authors:
+    - family-names: Thakur
+      given-names: Mukund Kumar
+    - family-names: Mishra
+      given-names: Sweta
+  journal: "Physiology and Molecular Biology of Plants"
+  year: 2026

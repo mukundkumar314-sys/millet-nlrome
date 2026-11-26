@@ -1,0 +1,22 @@
+__pycache__/
+*.pyc
+.DS_Store
+.ipynb_checkpoints/
+
+# data and intermediates live under $PROJECT_ROOT, never in the repository
+genomes/
+gff/
+prot/
+nlr/
+hma/
+mag/
+rna/
+paml/
+*.fa
+*.faa
+*.fna
+*.fastq.gz
+*.domtbl
+*.tbl
+*.gff3.gz
+*.hmm
